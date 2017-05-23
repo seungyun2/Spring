@@ -3,3 +3,6 @@
 /model/
 /messages/
 /validator/
+/common/
+/common.xml
+/interceptor/
